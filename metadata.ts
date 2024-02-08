@@ -52,8 +52,7 @@ async function main() {
     // TODO change those values!
     name: "Shankar",
     symbol: "SHIV",
-    description: "Just a test for STANDARD TOKENS ;)",
-    uri: "https://raw.githubusercontent.com/venkateshpamarthi/metadata/main/lion.avif",
+    uri: "https://raw.githubusercontent.com/venkateshpamarthi/standardTokens/main/metadata.json",
   };
   
   const onChainData = {
