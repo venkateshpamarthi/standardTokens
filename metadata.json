@@ -1,6 +1,6 @@
 {
-  "name": "SOL USDT",
-  "symbol": "USDTT",
+  "name": "SOL Claim Token",
+  "symbol": "CLAIM",
   "description": "Just a test USDT Token;)",
   "image": "https://raw.githubusercontent.com/venkateshpamarthi/standardTokens/main/tether-usdt-logo.png"
 }
