@@ -1,6 +1,6 @@
 {
-  "name": "Shankar",
-  "symbol": "SHIV",
-  "description": "Just a test for STANDARD TOKENS ;)",
-  "image": "https://raw.githubusercontent.com/venkateshpamarthi/standardTokens/main/standard.png"
+  "name": "SOL USDT",
+  "symbol": "USDTT",
+  "description": "Just a test USDT Token;)",
+  "image": "https://raw.githubusercontent.com/venkateshpamarthi/standardTokens/main/tether-usdt-logo.png"
 }
