@@ -1,6 +1,6 @@
 {
-  "name": "Jhonny_Dep",
-  "symbol": "J_Dep",
-  "description": "Jhonny Dep Token;)",
-  "image": "https://raw.githubusercontent.com/venkateshpamarthi/standardTokens/main/Dep.jpeg"
+  "name": "TA_USDT",
+  "symbol": "TA_USDT",
+  "description": "TA_USDT;)",
+  "image": "https://raw.githubusercontent.com/venkateshpamarthi/standardTokens/main/tether-usdt-logo.png"
 }
